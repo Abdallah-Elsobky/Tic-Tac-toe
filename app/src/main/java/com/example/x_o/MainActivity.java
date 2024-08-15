@@ -75,45 +75,25 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onStart(){
         super.onStart();
-//        new Handler().postDelayed(new Runnable() {
-//            @Override
-//            public void run() {
-//                Toast.makeText(MainActivity.this,"onStart",Toast.LENGTH_SHORT).show();
-//            }
-//        },2000);
+
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-//        new Handler().postDelayed(new Runnable() {
-//            @Override
-//            public void run() {
-//                Toast.makeText(MainActivity.this,"onResume",Toast.LENGTH_SHORT).show();
-//            }
-//        },2000);
+
     }
 
     @Override
     public void onPause(){
         super.onPause();
-//        new Handler().postDelayed(new Runnable() {
-//            @Override
-//            public void run() {
-//                Toast.makeText(MainActivity.this,"onPause",Toast.LENGTH_SHORT).show();
-//            }
-//        },2000);
+
     }
 
     @Override
     public void onStop(){
         super.onStop();
-//        new Handler().postDelayed(new Runnable() {
-//            @Override
-//            public void run() {
-//                Toast.makeText(MainActivity.this,"onStop",Toast.LENGTH_SHORT).show();
-//            }
-//        },2000);
+
     }
 
     @Override
@@ -126,11 +106,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onDestroy(){
         super.onDestroy();
-//        new Handler().postDelayed(new Runnable() {
-//            @Override
-//            public void run() {
-//                Toast.makeText(MainActivity.this,"onDestroy",Toast.LENGTH_SHORT).show();
-//            }
-//        },2000);
+
     }
 }
