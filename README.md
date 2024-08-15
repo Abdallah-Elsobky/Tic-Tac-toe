@@ -29,7 +29,8 @@ This Tic Tac Toe app offers a modern and interactive way to play the classic gam
 ## Screenshots
 
 
-#Splash_Screen
+# Splash_Screen
+
 <img src="https://github.com/user-attachments/assets/aa021b77-0a63-4d6e-aa0f-802da430d6cc" width="300" height="700">
 
 ![Main Screen](<img src="https://github.com/user-attachments/assets/e69ade4d-d2a8-4d44-9338-2c4718891367" width="300" height="700">)
